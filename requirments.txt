@@ -1,0 +1,7 @@
+Libraries : 
+1- sklearn (model_selection, feature_extraxtion (text), linear_model, ensemble, neighbors, metrics)
+2- pandas
+3- re
+4- nltk (corpus)
+5- matplotlib (pyplot)
+6- tensorflow (keras (models, layers))
